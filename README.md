@@ -57,12 +57,13 @@ This project trains a CNN model on a subset of the **PlantVillage** dataset to c
 ```text
 plant-disease-detection-cnn/
 │
-├── models/
-├── notebooks/
+├── dataset
+├── model/
+├── notebook/
 │   └── plant_disease_cnn.ipynb
+│   └── workflow
+│
 ├── README.md
-├── requirements.txt
-├── LICENSE
 └── .gitignore
 ```
 
