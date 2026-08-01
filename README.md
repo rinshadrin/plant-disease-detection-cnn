@@ -61,7 +61,8 @@ plant-disease-detection-cnn/
 ├── model/
 ├── notebook/
 │   └── plant_disease_cnn.ipynb
-│   └── workflow
+│   └── workflow.md
+│   └── overview.md
 │
 ├── README.md
 └── .gitignore
